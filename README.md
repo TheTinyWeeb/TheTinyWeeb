@@ -1,4 +1,4 @@
-# Breakfast - An Art :octocat:
+# Breakfast - An Art
 How to make the best breakfast ever, make sure to not share it with everybody as imposters are everwhere and they are looking for me!
 ## Ingredients
 - Milk
